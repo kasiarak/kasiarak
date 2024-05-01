@@ -48,6 +48,6 @@
 
 ###
 
-<h2 align="left">My Repositories:</h2>
+<h2 align="left">My repositories:</h2>
 
 ###
