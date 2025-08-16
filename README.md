@@ -6,17 +6,7 @@
 
 ###
 
-<p align="left">✨ Hi my name is Kasia<br>🎯 I am constantly learning programming<br>🏫 Polish-Japanese Academy of Information Technology</p>
-
-###
-
-<h2 align="left">My stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasiarak&radius=16&theme=react&area=true&order=5&hide_border=true&custom_title=My%20Coding%20Sessions" height="300" alt="activity-graph graph"  />
-</div>
+<p align="left">✨ Hi my name is Kasia<br>🎯 Fullstack Developer<br>🏫 Polish-Japanese Academy of Information Technology</p>
 
 ###
 
